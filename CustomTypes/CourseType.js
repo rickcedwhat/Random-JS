@@ -1,3 +1,4 @@
+console.log("test passed!");
 class CourseType {
     constructor(bubbleObject) {
         if (customObjectsCache.has(bubbleObject)) {
