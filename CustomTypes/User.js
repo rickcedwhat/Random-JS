@@ -1,4 +1,4 @@
-export default class User {
+class User {
     constructor(bubbleObject) {
         if (customObjectsCache.has(bubbleObject)) {
             return customObjectsCache.get(bubbleObject);

@@ -1,4 +1,4 @@
-export default class Student {
+class Student {
     constructor(bubbleObject) {
         if (customObjectsCache.has(bubbleObject)) {
             return customObjectsCache.get(bubbleObject);

@@ -1,4 +1,4 @@
-export default class Worker {
+class Worker {
     constructor(bubbleObject) {
         if (customObjectsCache.has(bubbleObject)) {
             return customObjectsCache.get(bubbleObject);

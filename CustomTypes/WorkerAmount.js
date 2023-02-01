@@ -1,4 +1,4 @@
-export default class WorkerAmount {
+class WorkerAmount {
     /**
      * @type {string}
      */
