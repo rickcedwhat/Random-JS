@@ -1,4 +1,4 @@
-export default class WorkerArea extends HTMLElement {
+class WorkerArea extends HTMLElement {
     constructor() {
       super();
       // create a shadow root

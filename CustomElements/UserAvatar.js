@@ -1,4 +1,4 @@
-export default class UserAvatar extends HTMLElement {
+class UserAvatar extends HTMLElement {
     constructor() {
       super();
       // create a shadow root
